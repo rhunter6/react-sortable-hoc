@@ -1,23 +1,23 @@
 {
-  "name": "react-sortable-hoc",
+  "name": "react-sortable-hoc-fix-touch",
   "version": "1.10.1",
-  "description": "Set of higher-order components to turn any list into a sortable, touch-friendly, animated list",
+  "description": "Fork of react-sortable-hoc that includes a fix for touch devices to work correctly.",
   "author": {
-    "name": "Clauderic Demers",
-    "email": "me@ced.io"
+    "name": "Russell Hunter",
+    "email": "russell@russellhunter.com"
   },
-  "user": "clauderic",
-  "homepage": "https://github.com/clauderic/react-sortable-hoc",
+  "user": "rhunter6",
+  "homepage": "https://github.com/rhunter6/react-sortable-hoc-fix-touch",
   "source": "src/index.js",
-  "main": "dist/react-sortable-hoc.js",
-  "umd:main": "dist/react-sortable-hoc.umd.js",
-  "module": "dist/react-sortable-hoc.esm.js",
-  "jsnext:main": "dist/react-sortable-hoc.esm.js",
+  "main": "dist/react-sortable-hoc-fix-touch.js",
+  "umd:main": "dist/react-sortable-hoc-fix-touch.umd.js",
+  "module": "dist/react-sortable-hoc-fix-touch.esm.js",
+  "jsnext:main": "dist/react-sortable-hoc-fix-touch.esm.js",
   "types": "types/index.d.ts",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clauderic/react-sortable-hoc.git"
+    "url": "https://github.com/rhunter6/react-sortable-hoc-fix-touch.git"
   },
   "bugs": {
     "url": "https://github.com/clauderic/react-sortable-hoc/issues"
